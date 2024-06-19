@@ -78,3 +78,13 @@ To be done
 > 1. The `<p>` HTML element represents a paragraph
 > 1. [P Documentation](https://developer.mozilla.org/docs/Web/HTML/Element/p)
 
+### section
+
+> 1. The `<section>` HTML element represents a generic standalone section of a document
+> 1. [Section Documentation](https://developer.mozilla.org/docs/Web/HTML/Element/section)
+
+### input
+
+> 1. The <input> HTML element is used to create interactive controls for web-based forms
+> 1. [Input Documentation](https://developer.mozilla.org/docs/Web/HTML/Element/input)
+
